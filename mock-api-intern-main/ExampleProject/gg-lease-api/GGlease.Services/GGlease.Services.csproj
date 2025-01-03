@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\GGlease.Model\GGlease.Model.csproj" />
+    <ProjectReference Include="..\GGlease.Data\GGlease.Data.csproj" />
+    <PackageReference Include="SendGrid" Version="9.26.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

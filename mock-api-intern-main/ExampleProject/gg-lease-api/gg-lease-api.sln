@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGlease.API", "GGlease.API\GGlease.API.csproj", "{D29A1FC6-746D-4B24-B4EF-F50F41E3F0D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGlease.Services", "GGlease.Services\GGlease.Services.csproj", "{2974AA60-43DC-41B8-B0D3-42F11BD9BB1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGlease.Model", "GGlease.Model\GGlease.Model.csproj", "{B7DD58F0-431D-4132-A64F-E0B88CDD4260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGlease.Data", "GGlease.Data\GGlease.Data.csproj", "{0ACECC6C-2318-4D0B-8EAC-EDFE419AE7E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29A1FC6-746D-4B24-B4EF-F50F41E3F0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29A1FC6-746D-4B24-B4EF-F50F41E3F0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29A1FC6-746D-4B24-B4EF-F50F41E3F0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29A1FC6-746D-4B24-B4EF-F50F41E3F0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2974AA60-43DC-41B8-B0D3-42F11BD9BB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2974AA60-43DC-41B8-B0D3-42F11BD9BB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2974AA60-43DC-41B8-B0D3-42F11BD9BB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2974AA60-43DC-41B8-B0D3-42F11BD9BB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DD58F0-431D-4132-A64F-E0B88CDD4260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DD58F0-431D-4132-A64F-E0B88CDD4260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DD58F0-431D-4132-A64F-E0B88CDD4260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DD58F0-431D-4132-A64F-E0B88CDD4260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ACECC6C-2318-4D0B-8EAC-EDFE419AE7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACECC6C-2318-4D0B-8EAC-EDFE419AE7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACECC6C-2318-4D0B-8EAC-EDFE419AE7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACECC6C-2318-4D0B-8EAC-EDFE419AE7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
