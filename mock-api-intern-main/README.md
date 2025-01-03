@@ -50,6 +50,7 @@ Buradaki sürelerde beklentilerimiz iş günü olarak yazıldı ancak extra efor
 
 - İş bittikten sonraki süreç
   - Yapılan iş için main e Pull Request açılır, review e gönderilir.
+	- sawsdawsdad
 
 
 ### NOT: Ne yaptığını biliyorsan Chat-GPT gibi AI toolarını kullanmak serbest.
